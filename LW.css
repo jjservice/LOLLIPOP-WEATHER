@@ -1,5 +1,5 @@
 *{
-    margin: 0% auto;
+    margin: 0%;
     padding: 0%;
 }
 body{
@@ -20,6 +20,7 @@ nav{
   padding: 2% 6%;
   justify-content: space-between;
   align-items: center;
+  margin: 0 auto;
 }
 
 .nav-links{
@@ -67,7 +68,7 @@ nav{
     border-radius: 100%;
     padding: 6px 12px;
     margin: 0 auto;
-    width: 400px;
+    width: 500px;
   
 }
 .timeLbl {
