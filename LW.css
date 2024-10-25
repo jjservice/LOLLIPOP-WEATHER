@@ -20,19 +20,21 @@ header {
   background-position: center;
   background-size: 95%;
   width: 80px;
-  font-size: 20px;
   text-align: center;
   border: 2px solid rgba(255, 217, 0, 0.801);
   border-radius: 15px;
-  position: relative;
   display: inline-block;
-  flex-direction: column;
-  margin: 0% auto;
+  display: inline-block;
   justify-content: center;
   align-items: center;
   text-align: center;
   cursor: pointer;
   transition: background-color 0.3s ease-in-out;
+}
+.homebtn ion-icon{
+  color: rgba(255, 217, 0, 0.801);
+  font-size: 25px;
+  
 }
 
 nav{
@@ -51,7 +53,6 @@ nav{
   align-items: center;
   justify-content: center;
   color: white;
-  font-size: 30px;
 }
 
 .nav-links ul li{
@@ -63,7 +64,7 @@ nav{
 .nav-links ul li a{
   color: #fff;
   text-decoration: none;
-  font-size: 13px;
+  font-size: 15px;
 
 }
 
