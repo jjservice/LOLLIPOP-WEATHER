@@ -21,9 +21,11 @@ header {
   background-size: 95%;
   width: 80px;
   text-align: center;
-  border: 2px solid rgba(255, 217, 0, 0.801);
-  box-shadow: 3px 2px 0px darkblue;
-  border-radius: 35%;
+  
+  box-shadow: 2px 1px 0px darkblue;
+  
+  border-radius: 25px;
+  margin-right: 5px;
   display: inline-block;
   display: inline-block;
   justify-content: center;
